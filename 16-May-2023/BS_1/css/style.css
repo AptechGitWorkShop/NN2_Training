@@ -1,0 +1,31 @@
+.container{
+    /* border: 10px solid purple;
+    background-color: aquamarine; */
+}
+.container-fluid{
+    border: 10px solid pink;
+}
+
+.box1{
+    height: 250px;
+    background-color: red;
+}
+.box2{
+    height: 250px;
+    background-color: green;
+}
+.box3{
+    height: 250px;
+    background-color: blue;
+}
+.box4{
+    height: 250px;
+    background-color: purple;
+}
+.box5{
+    height: 250px;
+    background-color: cyan;
+}
+.btn_cust{
+    background-color: rgb(51, 17, 204);
+}
